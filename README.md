@@ -47,8 +47,6 @@ My background in Mechatronics provides me with a rigorous foundation in system l
 
 # 📊 GitHub Stats:
 
-![Sachin's Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=sach7742&theme=radical)
-
 ![Sachin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sach7742&theme=radical&layout=compact)
 
 ---
